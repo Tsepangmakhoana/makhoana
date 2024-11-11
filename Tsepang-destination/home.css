@@ -1,0 +1,25 @@
+body{
+    background: blue;
+}
+
+
+h1{
+    color: white ;
+    background:rgb(0, 255, 21);
+}
+
+p{
+    color: white;
+}
+
+button{
+    margin: left;
+    color: white;
+    background: blue;
+}
+
+
+.splide--slide img {
+    width: 60%;
+    height: 50%;
+}
